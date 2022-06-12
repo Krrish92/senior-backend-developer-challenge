@@ -174,6 +174,6 @@ I setup only 2 users having 6 accounts 1-1 each account type. All accounts are l
 ```
 
 ## Profile overview
-- Please hit ```http://localhost:8000``` in browser to know more about me.
+- Please click [here](http://localhost:8000) to know more about me.
 
 Thats all. Thanks you :)
